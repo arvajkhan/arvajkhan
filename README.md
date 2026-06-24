@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Arvaj Khan 👋<br><br>🎓 B.Tech Computer Science Engineering Final Year  Student at GLA University<br><br>💻 Frontend Web Developer skilled in HTML, CSS, JavaScript, React.js, Bootstrap, and DBMS.<br><br>🚀 Built responsive web applications including E-Commerce Website and Hospital Management System with modern UI and interactive features.<br><br>🌱 Currently learning Full Stack Development, Data Structures & Algorithms, and Backend Technologies.<br><br>📌 Open to Internship and Software Developer Opportunities.
+Hi, I'm Arvaj Khan 👋<br><br>🎓Final Year B.Tech Computer Science Engineering Student at GLA University<br><br>💻 Frontend Web Developer skilled in HTML, CSS, JavaScript, React.js, Bootstrap, and DBMS.<br><br>🚀 Built responsive web applications including E-Commerce Website and Hospital Management System with modern UI and interactive features.<br><br>🌱 Currently learning Full Stack Development, Data Structures & Algorithms, and Backend Technologies.<br><br>📌 Open to Internship and Software Developer Opportunities.
 
 
 ## 🌐 Socials:
